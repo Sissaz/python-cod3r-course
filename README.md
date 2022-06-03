@@ -4,6 +4,9 @@ Este repositorio guardará os apredizados e projetos do curso da [Udemy](https:/
 
 This repository will keep the lessons and projects from [Udemy's](https://www.udemy.com/course/curso-python-3-completo/): course "Python 3 - Curso Completo do Básico ao Avançado". Feel free to use whatever you want to. 
 
+## 📖 | Python 3 Notebook in Portuguese/Apostila de Python 3 em Português
+- [Apostila de Python 3 Cod3r:](https://github.com/Sissaz/python-cod3r-course/blob/main/python.pdf)
+*Autor: Juracy Filho, Co-autor: Leonardo Leitão (apenas consultas)
 
 ## 👨🏻‍🎓 | Python Mini Guide in Jupyter Notebook/Mini Guia para Python usando Jupyter Notebook
 - [Python Fundamentals/Fundamentos do Python](https://github.com/Sissaz/python-cod3r-course/blob/main/python-3-cod3r.ipynb)
