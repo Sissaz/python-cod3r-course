@@ -1,8 +1,8 @@
 ## 📈 | Python 3 Course from Cod3r/Curso de Python 3 da Cod3r 
 
-Este repositorio guardará os apredizados e projetos do curso da [Udemy](https://www.udemy.com/course/curso-python-3-completo/) "Python 3 - Curso Completo do Básico ao Avançado". Fique livre para usar o que quiser. 
+Este repositorio guardará os apredizados e projetos do curso da [Udemy](https://www.udemy.com/course/curso-python-3-completo/): "Python 3 - Curso Completo do Básico ao Avançado". Fique livre para usar o que quiser. 
 
-This repository will keep the lessons and projects from [Udemy's](https://www.udemy.com/course/curso-python-3-completo/) course "Python 3 - Curso Completo do Básico ao Avançado". Feel free to use whatever you want to. 
+This repository will keep the lessons and projects from [Udemy's](https://www.udemy.com/course/curso-python-3-completo/): course "Python 3 - Curso Completo do Básico ao Avançado". Feel free to use whatever you want to. 
 
 
 ## 👨🏻‍🎓 | Python Mini Guide in Jupyter Notebook/Mini Guia para Python usando Jupyter Notebook
