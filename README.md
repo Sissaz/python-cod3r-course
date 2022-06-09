@@ -9,10 +9,13 @@ This repository will keep the lessons and projects from [Udemy's](https://www.ud
 *Autor: Juracy Filho, Co-autor: Leonardo Leitão (apenas consultas)
 
 ## 👨🏻‍🎓 | Python Mini Guide in Jupyter Notebook/Mini Guia para Python usando Jupyter Notebook
-- [Python Fundamentals/Fundamentos do Python](https://github.com/Sissaz/python-cod3r-course/blob/main/python-3-cod3r.ipynb)
+- [Python Fundamentals/Fundamentos do Python](https://github.com/Sissaz/python-cod3r-course/blob/main/media/python-3-cod3r.ipynb)
 
 ## ✏️ | Python Beginner Exercises/Python Exercicios Iniciante
 - [Functions, If, Elif, Else, In Range, While, For in Range, For in, For Dictionaries, For Break Continue, Switch, For w/o Else, For w Else](https://github.com/Sissaz/python-cod3r-course/blob/main/media/python-3-cod3r-exercicios.ipynb)
+
+## 🐚 | Fibonacci Number / Sequência de Fibonacci
+- [Many ways of getting Fibonacci Number/Alguns modos de obter a Sequência de Fibonacci](https://github.com/Sissaz/python-cod3r-course/blob/main/media/python-3-cod3r-fibonacci.ipynb)
 
 <div align="center">
 <a href="https://github.com/Sissaz" > <img width="25%"  src="https://cdn.discordapp.com/attachments/589442956021465142/971192953840222258/Sissasz.png" /></a>
