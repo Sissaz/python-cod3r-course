@@ -20,6 +20,8 @@ This repository will keep the lessons and projects from [Udemy's](https://www.ud
 ## 📁 | Working With Files in Python / Manipulação de Arquivos
 - [Writing and Reading .csv and .txt files/Escrevendo e Lendo arquivos .csv e .txt](https://github.com/Sissaz/python-cod3r-course/blob/main/media/csv/python-3-cod3r-csv.ipynb)
 
+## 🔎 | Comprehensions / Compreensão
+- [List, Generator and Dict Comprehensions](https://github.com/Sissaz/python-cod3r-course/blob/main/media/comprehension/python-3-cod3r-comprehension.ipynb)
 
 
 <div align="center">
