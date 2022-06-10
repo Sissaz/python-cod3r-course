@@ -17,6 +17,11 @@ This repository will keep the lessons and projects from [Udemy's](https://www.ud
 ## 🐚 | Fibonacci Number / Sequência de Fibonacci
 - [Many ways of getting Fibonacci Number/Alguns modos de obter a Sequência de Fibonacci](https://github.com/Sissaz/python-cod3r-course/blob/main/media/python-3-cod3r-fibonacci.ipynb)
 
+## 📁 | Working With Files in Python / Manipulação de Arquivos
+- [Writing and Reading .csv and .txt files/Escrevendo e Lendo arquivos .csv e .txt](https://github.com/Sissaz/python-cod3r-course/blob/main/media/csv/python-3-cod3r-csv.ipynb)
+
+
+
 <div align="center">
 <a href="https://github.com/Sissaz" > <img width="25%"  src="https://cdn.discordapp.com/attachments/589442956021465142/971192953840222258/Sissasz.png" /></a>
 </div>
