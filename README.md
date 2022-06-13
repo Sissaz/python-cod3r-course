@@ -23,6 +23,8 @@ This repository will keep the lessons and projects from [Udemy's](https://www.ud
 ## 🔎 | Comprehensions / Compreensão
 - [List, Generator and Dict Comprehensions](https://github.com/Sissaz/python-cod3r-course/blob/main/media/comprehension/python-3-cod3r-comprehension.ipynb)
 
+## 📦 | Modules / Modulos
+- [Modules and Packages/Pacotes e Modulos](https://github.com/Sissaz/python-cod3r-course/blob/main/media/pacotes/modulos.ipynb)
 
 <div align="center">
 <a href="https://github.com/Sissaz" > <img width="25%"  src="https://cdn.discordapp.com/attachments/589442956021465142/971192953840222258/Sissasz.png" /></a>
